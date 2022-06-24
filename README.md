@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ricky1455
+- 👋 Hi, I’m @niladrix719
 - 👀 I’m interested in ... Software
 - 🌱 I’m currently learning ... DSA
 - 💞️ I’m looking to collaborate on ...
