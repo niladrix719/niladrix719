@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niladrix719
 - 👀 I’m interested in ... Software
-- 🌱 I’m currently learning ... DSA
+- 🌱 I’m currently learning ... Web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rickyrickado14@gmail.com
 
