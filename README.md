@@ -6,10 +6,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niladrix719&theme=dark&hide_border=false)<br/>
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=niladrix719)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=niladrix719&icon=0&color=0)](https://visitcount.itsvg.in)
 
