@@ -8,7 +8,7 @@ const aboutMe = {
   technologies: {
     frontEnd: {
       ts: {
-        framework: ["React.js", "Vue.js"]
+        framework: ["React.js", "Vue.js"],
         metaFramework: "Next.js",
       },
       css: [
