@@ -3,7 +3,7 @@
 [![](https://img.shields.io/github/followers/niladrix719?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://www.github.com/niladrix719)
 [![](https://img.shields.io/twitter/follow/niladrix719?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://twitter.com/niladrix719)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Open-Source+Enthusiast;B.Tech+3rd+Year+Student;2%2B+Years+of+Coding+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Open-Source+Contributor;B.Tech+3rd+Year+Student;2%2B+Years+of+Coding+Experience)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 
