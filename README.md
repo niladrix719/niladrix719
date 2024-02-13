@@ -3,6 +3,8 @@
 [![](https://img.shields.io/github/followers/niladrix719?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://www.github.com/niladrix719)
 [![](https://img.shields.io/twitter/follow/niladrix719?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://twitter.com/niladrix719)
 
+[![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Experienced%20Web%20Developer;2%2B%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000)](https://www.github.com/niladrix719)
+
 ## 💫 About Me:
 
 ```typescript
