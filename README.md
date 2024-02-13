@@ -1,3 +1,5 @@
+# <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm NILADRI ADHIKARY
+
 # 💫 About Me:
 
 ```typescript
