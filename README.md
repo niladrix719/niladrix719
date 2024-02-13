@@ -47,3 +47,5 @@ const aboutMe = {
 ```
 
 ![niladrix719's Stats](https://github-readme-stats.vercel.app/api?username=niladrix719&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+
+![niladrix719's Streak](https://github-readme-streak-stats.herokuapp.com/?user=niladrix719&theme=algolia&hide_border=true)
