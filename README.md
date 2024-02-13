@@ -1,4 +1,4 @@
-# <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm NILADRI ADHIKARY
+# <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm NILADRI ADHIKARY
 
 [![](https://img.shields.io/github/followers/niladrix719?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://www.github.com/niladrix719)
 [![](https://img.shields.io/twitter/follow/niladrix719?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a)](https://twitter.com/niladrix719)
