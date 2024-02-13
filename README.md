@@ -18,6 +18,7 @@ const aboutMe = {
     },
     backEnd: {
       framework: ["Node.js", "Express.js", "Rails"],
+      orm: "Mongoose",
       baas: "Firebase",
     },
     databases: ["PostgreSQL", "MongoDB"],
