@@ -31,9 +31,7 @@ const aboutMe = {
       design: ["Figma", "Canva"],
     },
   },
-  currentOccupation: [
-    "Student, open for internship opportunities",
-  ],
+  currentOccupation: "Student, open for internship opportunities"
   challenge:
     "I am doing the #Leetcode365Days challenge focused on Data Structures and Algorithms",
   funFact: "I love low-level languages 🤖🔧",
