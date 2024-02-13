@@ -21,7 +21,7 @@ const aboutMe = {
       baas: "Firebase",
     },
     databases: ["PostgreSQL", "MongoDB"],
-    Libraries: ["GreenSock", "Socket.io"]
+    Libraries: ["GreenSock", "Socket.io"],
     misc: {
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
