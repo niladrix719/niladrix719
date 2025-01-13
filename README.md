@@ -10,7 +10,7 @@
 const aboutMe = {
   name: "NILADRI ADHIKARY",
   email: "niladrix719@gmail.com",
-  languages: ["TypeScript", "JavaScript", "Bash", "C/C++", "Ruby"],
+  languages: ["TypeScript", "JavaScript", "Go", "C/C++", "Ruby"],
   technologies: {
     frontEnd: {
       ts: {
