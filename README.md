@@ -23,7 +23,7 @@ const aboutMe = {
       ],
     },
     backEnd: {
-      framework: ["Node.js", "Express.js", "Rails"],
+      framework: ["Node.js", "Express.js", "Rails", "Gin"],
       orm: "Mongoose",
       baas: "Firebase",
     },
