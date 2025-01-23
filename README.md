@@ -41,7 +41,7 @@ const aboutMe = {
   currentOccupation: "Student, open for internship opportunities",
   challenge:
     "I am doing the #Leetcode365Days challenge focused on Data Structures and Algorithms",
-  funFact: "I love low-level languages 🤖🔧",
+  funFact: "I love making developer tools 🤖🔧",
 };
 ```
 
