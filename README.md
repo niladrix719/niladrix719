@@ -31,7 +31,7 @@ let about_me = AboutMe {
             version_control: vec!["Git", "GitHub"],
             package_manager: vec!["yarn", "npm"],
             authentication: vec!["Firebase Auth", "Auth0"],
-            code_editor: vec!["Visual Studio Code", "Sublime Text"],
+            code_editor: vec!["Visual Studio Code", "Zed", "Trae"],
             design: vec!["Figma", "Canva"],
         },
     },
