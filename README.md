@@ -10,7 +10,7 @@
 let about_me = AboutMe {
     name: "NILADRI ADHIKARY",
     email: "niladrix719@gmail.com",
-    languages: vec!["TypeScript", "JavaScript", "Go", "C/C++", "Ruby"],
+    languages: vec!["TypeScript", "JavaScript", "Go", "C/C++", "Rust"],
     technologies: Technologies {
         front_end: FrontEnd {
             ts: Ts {
