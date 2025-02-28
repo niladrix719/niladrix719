@@ -6,42 +6,38 @@
 
 ## 💫 About Me:
 
-```typescript
-const aboutMe = {
-  name: "NILADRI ADHIKARY",
-  email: "niladrix719@gmail.com",
-  languages: ["TypeScript", "JavaScript", "Go", "C/C++", "Ruby"],
-  technologies: {
-    frontEnd: {
-      ts: {
-        framework: ["React.js", "Vue.js"],
-        metaFramework: "Next.js",
-      },
-      css: [
-        "Tailwind CSS",
-        "Bootstrap",
-      ],
+```rust
+let about_me = AboutMe {
+    name: "NILADRI ADHIKARY",
+    email: "niladrix719@gmail.com",
+    languages: vec!["TypeScript", "JavaScript", "Go", "C/C++", "Ruby"],
+    technologies: Technologies {
+        front_end: FrontEnd {
+            ts: Ts {
+                framework: vec!["React.js", "Vue.js"],
+                meta_framework: "Next.js",
+            },
+            css: vec!["Tailwind CSS", "Bootstrap"],
+        },
+        back_end: BackEnd {
+            framework: vec!["Node.js", "Express.js", "Rails", "Gin"],
+            orm: "Mongoose",
+            baas: "Firebase",
+        },
+        databases: vec!["PostgreSQL", "MongoDB"],
+        libraries: vec!["GreenSock", "Socket.io"],
+        misc: Misc {
+            serverless: vec!["Vercel", "Netlify"],
+            version_control: vec!["Git", "GitHub"],
+            package_manager: vec!["yarn", "npm"],
+            authentication: vec!["Firebase Auth", "Auth0"],
+            code_editor: vec!["Visual Studio Code", "Sublime Text"],
+            design: vec!["Figma", "Canva"],
+        },
     },
-    backEnd: {
-      framework: ["Node.js", "Express.js", "Rails", "Gin"],
-      orm: "Mongoose",
-      baas: "Firebase",
-    },
-    databases: ["PostgreSQL", "MongoDB"],
-    Libraries: ["GreenSock", "Socket.io"],
-    misc: {
-      serverless: ["Vercel", "Netlify"],
-      versionControl: ["Git", "GitHub"],
-      packageManager: ["yarn", "npm"],
-      authentication: ["Firebase Auth", "Auth0"],
-      codeEditor: ["Visual Studio Code", "Sublime Text"],
-      design: ["Figma", "Canva"],
-    },
-  },
-  currentOccupation: "Student, open for internship opportunities",
-  challenge:
-    "I am doing the #Leetcode365Days challenge focused on Data Structures and Algorithms",
-  funFact: "I love making tools for developers 🤖🔧",
+    current_occupation: "Student, open for internship opportunities",
+    challenge: "I am doing the #Leetcode365Days challenge focused on Data Structures and Algorithms",
+    fun_fact: "I love making tools for developers 🤖🔧",
 };
 ```
 
