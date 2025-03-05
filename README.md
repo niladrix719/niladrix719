@@ -14,7 +14,7 @@ let about_me = AboutMe {
     technologies: Technologies {
         front_end: FrontEnd {
             ts: Ts {
-                framework: vec!["React.js", "Vue.js"],
+                framework: vec!["React.js", "Vue.js", "Nextjs", "Astro"],
                 meta_framework: "Next.js",
             },
             css: vec!["Tailwind CSS", "Bootstrap"],
@@ -27,6 +27,12 @@ let about_me = AboutMe {
         },
         databases: vec!["PostgreSQL", "MongoDB", "SQL Server"],
         libraries: vec!["GreenSock", "Socket.io", "Pinia"],
+        devops: DevOps {
+            containerization: vec!["Docker"],
+            orchestration: vec!["Kubernetes"],
+            cloud: vec!["AWS"],
+            servers: vec!["Linux", "Nginx"],
+        },
         misc: Misc {
             serverless: vec!["Vercel", "Netlify"],
             version_control: vec!["Git", "GitHub"],
@@ -35,17 +41,10 @@ let about_me = AboutMe {
             code_editor: vec!["Visual Studio Code", "Zed", "Trae"],
             design: vec!["Figma", "Canva"],
         },
-        devops: DevOps {
-            containerization: vec!["Docker"],
-            orchestration: vec!["Kubernetes"],
-            cloud: vec!["AWS"],
-            servers: vec!["Linux", "Nginx"],
-        },
         testing: Testing {
             frameworks: vec!["Vitest"],
         },
-        meta_frameworks: vec!["Nextjs", "Astro"],
-        additional_technologies: vec!["WebRTC", "Tauri"],
+        other_technologies: vec!["WebRTC", "Tauri"],
     },
     current_occupation: "Student, open for internship opportunities",
     challenge: "I am doing the #Leetcode365Days challenge focused on Data Structures and Algorithms",
