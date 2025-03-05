@@ -14,7 +14,7 @@ let about_me = AboutMe {
     technologies: Technologies {
         front_end: FrontEnd {
             ts: Ts {
-                framework: vec!["React.js", "Vue.js", "Nextjs", "Astro"],
+                framework: vec!["React.js", "Vue.js", "Astro"],
                 meta_framework: "Next.js",
             },
             css: vec!["Tailwind CSS", "Bootstrap"],
