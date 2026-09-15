@@ -6,48 +6,59 @@
 
 ## 💫 About Me:
 
-```rust
-let about_me = AboutMe {
-    name: "NILADRI ADHIKARY",
-    email: "niladrix719@gmail.com",
-    languages: vec!["TypeScript", "JavaScript", "Go", "C/C++", "Rust"],
-    technologies: Technologies {
-        front_end: FrontEnd {
-            ts: Ts {
-                framework: vec!["React.js", "Vue.js", "Astro"],
-                meta_framework: "Next.js",
-            },
-            css: vec!["Tailwind CSS", "Bootstrap"],
-            frameworks: vec!["React", "Vue"],
-        },
-        back_end: BackEnd {
-            framework: vec!["Node.js", "Express.js", "Rails", "Gin"],
-            orm: "Mongoose",
-            baas: "Firebase",
-        },
-        databases: vec!["PostgreSQL", "MongoDB", "SQL Server"],
-        libraries: vec!["GreenSock", "Socket.io", "Pinia"],
-        devops: DevOps {
-            containerization: vec!["Docker"],
-            orchestration: vec!["Kubernetes"],
-            cloud: vec!["AWS"],
-            servers: vec!["Linux", "Nginx"],
-        },
-        misc: Misc {
-            serverless: vec!["Vercel", "Netlify"],
-            version_control: vec!["Git", "GitHub"],
-            package_manager: vec!["yarn", "npm"],
-            authentication: vec!["Firebase Auth", "Auth0"],
-            code_editor: vec!["Visual Studio Code", "Zed", "Trae"],
-            design: vec!["Figma", "Canva"],
-        },
-        testing: Testing {
-            frameworks: vec!["Vitest"],
-        },
-        other_technologies: vec!["WebRTC", "Tauri"],
-    },
-    current_occupation: "Student, open for internship opportunities",
-    challenge: "I am doing the #Leetcode365Days challenge focused on Data Structures and Algorithms",
-    fun_fact: "I love making tools for developers 🤖🔧",
-};
+```go
+var aboutMe = AboutMe{
+	Name:      "NILADRI ADHIKARY",
+	Email:     "niladrix719@gmail.com",
+	Languages: []string{"Go", "TypeScript", "C/C++", "Rust", "Ruby", "SQL"},
+
+	Technologies: Technologies{
+		Frontend: Frontend{
+			Frameworks: []string{"React", "Vue.js", "Next.js", "Astro"},
+			CSS:        []string{"Tailwind CSS"},
+		},
+
+		Backend: Backend{
+			Frameworks: []string{"Go", "Gin", "Node.js", "Express.js"},
+			Libraries:  []string{"gRPC", "Socket.io"},
+		},
+
+		Databases: []string{
+			"PostgreSQL",
+			"ClickHouse",
+			"MongoDB",
+			"SQLite",
+		},
+
+		DevOps: DevOps{
+			Containerization: []string{"Docker"},
+			Orchestration:    []string{"Kubernetes"},
+			Cloud:            []string{"AWS", "GCP"},
+			Tools:            []string{
+				"Helm",
+				"Argo CD",
+				"PipeCD",
+				"Linux",
+			},
+		},
+
+		Testing: Testing{
+			Frameworks: []string{"Vitest", "Cypress"},
+		},
+
+		Other: []string{
+			"OpenTelemetry",
+			"Prometheus",
+			"Grafana",
+			"Kafka",
+			"Tauri",
+			"WebRTC",
+			"Git",
+			"GitHub",
+		},
+	},
+
+	Occupation: "Software Engineer and Open-Source Contributor",
+	FunFact:    "I love building tools for developers 🤖🔧",
+}
 ```
